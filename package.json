@@ -1,0 +1,27 @@
+{
+  "name": "kindling-entity",
+  "version": "0.1.0",
+  "description": "a kindling generator for entitydb",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/entitydb/kindling-entity.git"
+  },
+  "keywords": [
+    "kindling",
+    "template",
+    "scaffold",
+    "scaffolding",
+    "bootstrap",
+    "utility",
+    "starter",
+    "generate",
+    "generator"
+  ],
+  "author": "entitydb",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/entitydb/kindling-entity/issues"
+  },
+  "homepage": "https://github.com/entitydb/kindling-entity"
+}
