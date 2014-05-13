@@ -1,6 +1,7 @@
 # __entity__
 
 [![server tests](https://travis-ci.org/__author__/__entity__.png)](https://travis-ci.org/__author__/__entity__)
+[![test coverage](https://coveralls.io/repos/__author__/__entity__/badge.png)](https://coveralls.io/r/__author__/__entity__)
 [![npm version](https://badge.fury.io/js/entitydb-__entity__.png)](https://npmjs.org/package/entitydb-__entity__)
 [![dependency status](https://david-dm.org/__author__/__entity__.png)](https://david-dm.org/__author__/__entity__)
 [![devDependency status](https://david-dm.org/__author__/__entity__/dev-status.png)](https://david-dm.org/__author__/__entity__#info=devDependencies)
